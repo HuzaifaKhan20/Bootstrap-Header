@@ -1,0 +1,11 @@
+.nav_logo {
+    width: 143px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 5px;
+}
+
+.navbar {
+    background: rgba(136, 217, 255, 0.74);
+}
